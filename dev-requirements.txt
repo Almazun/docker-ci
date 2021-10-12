@@ -4,8 +4,6 @@
 #
 #    pip-compile dev-requirements.in
 #
-appnope==0.1.2
-    # via ipython
 astor==0.8.1
     # via flake8-simplify
 attrs==21.2.0
